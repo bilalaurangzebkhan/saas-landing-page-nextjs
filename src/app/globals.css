@@ -18,10 +18,13 @@
     .tag {
         @apply text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight
     }
-    .logo-ticker-img {
-        @apply text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-black to-[#001] text-transparent bg-clip-text mt-6
+    .section-description {
+        @apply text-center text-[22px] leading-[30px] tracking-tight text-[#010D3E]
     }
-    .logo-ticker-img {
-        @apply text-xl text-[#010D3E] tracking-tight mt-6
+    .section-title {
+        @apply text-center text-3xl font-bold tracking-tighter bg-gradient-to-b from-black to-[#001E80] text-transparent bg-clip-text md:text-[54px] md:leading-[68px]
+    }
+    .section-heading {
+        @apply max-w-[540px] mx-auto 
     }
 }
