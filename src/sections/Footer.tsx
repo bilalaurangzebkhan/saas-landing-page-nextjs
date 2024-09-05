@@ -3,7 +3,7 @@ import logo from "@/assets/logosaas.png";
 import Socialinsta from "@/assets/social-insta.svg";
 import Sociallinkedin from "@/assets/social-linkedin.svg";
 import Socialpin from "@/assets/social-pin.svg";
-import Socialx from "@/assets/social-youtube.svg";
+import Socialx from "@/assets/social-x.svg";
 import Socialyoutube from "@/assets/social-youtube.svg";
 
 export const Footer = () => {
