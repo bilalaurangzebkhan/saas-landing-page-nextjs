@@ -2,7 +2,7 @@
 
 Welcome to the repository for building a stunning SaaS landing page using **React**, **Next.js**, **TailwindCSS**, and **Framer Motion**. This project is designed to help you master modern web development techniques, create visually appealing animations, and deliver responsive, high-performance websites that stand out in the crowded digital landscape.
 
-### Check out the 🌍 live demo [here](https://nextblogsite.netlify.app/).
+### Check out the 🌍 live demo [here](https://main--saas-landing-page-nextjs.netlify.app/).
 
 ## 🚀 Project Overview
 
